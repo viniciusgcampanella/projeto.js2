@@ -24,7 +24,7 @@ while(option !=3) {
             }
             break
             case 3:
-                alert("Thank you for using my app made with HTML/JavaScript")
+                alert("Obrigado por usar meu app desenvolvido em HTML/JavaScript")
                 break
                 default:
                     alert("Opção Invalida. Tente novamente!")
